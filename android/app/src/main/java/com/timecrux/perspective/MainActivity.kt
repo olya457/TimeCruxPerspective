@@ -1,4 +1,4 @@
-package com.timecruxperspective
+package com.timecrux.perspective
 
 import android.os.Bundle
 import com.swmansion.rnscreens.fragment.restoration.RNScreensFragmentFactory

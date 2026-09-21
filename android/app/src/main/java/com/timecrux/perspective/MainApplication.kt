@@ -1,4 +1,4 @@
-package com.timecruxperspective
+package com.timecrux.perspective
 
 import android.app.Application
 import com.facebook.react.PackageList
