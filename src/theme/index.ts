@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native';
 export const colors = {
-  bg: '#0b090b',
+  bg: '#0b241c',
   panel: '#191617',
   text: '#f4f0e9',
   muted: '#97918f',
@@ -12,22 +12,16 @@ export const colors = {
 };
 export const gold = ['#fff0c5', '#edc456', '#c5942a'];
 export const assets = {
-  background: require('../assets/time-crux-background.png'),
-  loader: require('../assets/time-crux-loader-background.png'),
   logo: require('../assets/time-crux-logo.png'),
   onboarding: [
     require('../assets/time-crux-onboarding-pause.png'),
     require('../assets/time-crux-onboarding-perspectives.png'),
     require('../assets/time-crux-onboarding-challenge.png'),
   ],
-  onboardingBg: [
-    require('../assets/time-crux-onboarding-pause-background.png'),
-    require('../assets/time-crux-onboarding-perspectives-background.png'),
-    require('../assets/time-crux-onboarding-challenge-background.png'),
-  ],
 };
 export const styles = StyleSheet.create({
   fill: { flex: 1 },
+  screen: { flex: 1, backgroundColor: colors.bg },
   row: { flexDirection: 'row', alignItems: 'center', gap: 10 },
   between: {
     flexDirection: 'row',

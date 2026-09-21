@@ -1,5 +1,6 @@
 import React, { useCallback, useState } from 'react';
 import { StatusBar } from 'react-native';
+import { colors } from './src/theme';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { AppStore, useStore } from './src/storage/AppStore';
 import { AppNavigator } from './src/navigation/AppNavigator';
@@ -16,7 +17,7 @@ function AppContent() {
 export default function App() {
   return (
     <SafeAreaProvider>
-      <StatusBar barStyle="light-content" backgroundColor="#0b090b" />
+      <StatusBar barStyle="light-content" backgroundColor={colors.bg} />
       <AppStore>
         <AppContent />
       </AppStore>

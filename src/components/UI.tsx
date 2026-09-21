@@ -1,6 +1,5 @@
 import React, { useContext, useEffect, useRef, useState } from 'react';
 import {
-  ImageBackground,
   KeyboardAvoidingView,
   Platform,
   Pressable,
@@ -20,7 +19,7 @@ import { AnimatedContent, Motion, useReducedMotion } from './Motion';
 import { useResponsiveLayout } from '../hooks/useResponsiveLayout';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import Svg, { Path, Circle } from 'react-native-svg';
-import { assets, colors, gold, styles as s } from '../theme';
+import { colors, gold, styles as s } from '../theme';
 export function Icon({
   name,
   color = colors.gold,
@@ -72,13 +71,11 @@ export function Screen({
   children,
   footer,
   scroll = true,
-  background = assets.background,
   onScroll,
   animationKey = 'screen',
 }: React.PropsWithChildren<{
   footer?: React.ReactNode;
   scroll?: boolean;
-  background?: number;
   onScroll?: ScrollViewProps['onScroll'];
   animationKey?: string | number;
 }>) {
@@ -106,7 +103,7 @@ export function Screen({
     </AnimatedContent>
   );
   return (
-    <ImageBackground source={background} style={s.fill}>
+    <View style={s.screen}>
       <SafeAreaView
         style={s.fill}
         edges={
@@ -151,7 +148,7 @@ export function Screen({
           )}
         </KeyboardAvoidingView>
       </SafeAreaView>
-    </ImageBackground>
+    </View>
   );
 }
 export function Button({

@@ -110,7 +110,7 @@ export function ExploreScreen() {
                       title="Share card"
                       onPress={() => {
                         Share.share({
-                          message: `${item.text}\n\n${item.detail}\n— Time Crux Perspective`,
+                          message: `${item.text}\n\n${item.detail}\n— Thinkwise`,
                         }).catch(() => Alert.alert('Sharing unavailable'));
                       }}
                       style={s.fill}

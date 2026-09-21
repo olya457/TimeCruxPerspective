@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Image, ImageBackground, StyleSheet, Text, View } from 'react-native';
+import { Image, StyleSheet, Text, View } from 'react-native';
 import { WebView } from 'react-native-webview';
 import { assets, colors, styles as s } from '../theme';
 import { Button, Screen } from '../components/UI';
@@ -19,7 +19,7 @@ export function LoaderScreen({ onComplete }: { onComplete: () => void }) {
     return () => clearTimeout(timer);
   }, [failed, onComplete]);
   return (
-    <ImageBackground source={assets.loader} style={s.fill}>
+    <View style={s.screen}>
       <Motion reduced={reduced} direction="down" style={w.loaderCenter}>
         <Image
           source={assets.logo}
@@ -29,8 +29,7 @@ export function LoaderScreen({ onComplete }: { onComplete: () => void }) {
           }}
           resizeMode="contain"
         />
-        <Text style={[w.brand, compact && w.compactBrand]}>TIME CRUX</Text>
-        <Text style={w.brandSub}>Perspective</Text>
+        <Text style={[w.brand, compact && w.compactBrand]}>Thinkwise</Text>
         <Text style={w.tagline}>
           Pause at the crux.{'\n'}See the choice from every side.
         </Text>
@@ -51,14 +50,14 @@ export function LoaderScreen({ onComplete }: { onComplete: () => void }) {
         />
         <Text style={w.preparing}>PREPARING YOUR CRUX</Text>
       </Motion>
-    </ImageBackground>
+    </View>
   );
 }
 const pages = [
   {
     tag: 'THE PAUSE',
     title: 'Three seconds\nbefore you decide',
-    body: 'Time Crux slows the moment down. Answer a short sequence of questions and watch your own reasoning appear on the page.',
+    body: 'Thinkwise slows the moment down. Answer a short sequence of questions and watch your own reasoning appear on the page.',
   },
   {
     tag: 'ROLE SWITCH',
@@ -79,7 +78,6 @@ export function OnboardingScreen() {
   return (
     <Screen
       animationKey={page}
-      background={assets.onboardingBg[page]}
       footer={
         <View style={s.between}>
           <View style={s.row}>
@@ -121,7 +119,6 @@ const w = StyleSheet.create({
     paddingTop: 30,
   },
   brand: { fontSize: 32, fontWeight: '700', color: '#ebc267', marginTop: 46 },
-  brandSub: { fontSize: 10, letterSpacing: 5, color: '#cda335', marginTop: 10 },
   tagline: {
     fontSize: 14,
     lineHeight: 21,

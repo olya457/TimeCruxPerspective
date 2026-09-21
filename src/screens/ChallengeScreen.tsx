@@ -696,7 +696,7 @@ const c = StyleSheet.create({
   },
   overlay: {
     flex: 1,
-    backgroundColor: '#0b090bf5',
+    backgroundColor: colors.bg,
     justifyContent: 'center',
     padding: 24,
   },

@@ -15,9 +15,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.timecrux.perspective"
+    namespace "com.thinkwise"
     defaultConfig {
-        applicationId "com.timecrux.perspective"
+        applicationId "com.thinkwise"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
