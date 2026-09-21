@@ -1,45 +1,25 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
-
-import { NewAppScreen } from '@react-native/new-app-screen';
-import { StatusBar, StyleSheet, useColorScheme, View } from 'react-native';
-import {
-  SafeAreaProvider,
-  useSafeAreaInsets,
-} from 'react-native-safe-area-context';
-
-function App() {
-  const isDarkMode = useColorScheme() === 'dark';
-
+import React, { useCallback, useState } from 'react';
+import { StatusBar } from 'react-native';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
+import { AppStore, useStore } from './src/storage/AppStore';
+import { AppNavigator } from './src/navigation/AppNavigator';
+import { LoaderScreen, OnboardingScreen } from './src/screens/WelcomeScreen';
+function AppContent() {
+  const { state, ready } = useStore();
+  const [loaded, setLoaded] = useState(false);
+  const complete = useCallback(() => setLoaded(true), []);
+  if (!loaded || !ready) {
+    return <LoaderScreen onComplete={complete} />;
+  }
+  return state.onboarded ? <AppNavigator /> : <OnboardingScreen />;
+}
+export default function App() {
   return (
     <SafeAreaProvider>
-      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      <AppContent />
+      <StatusBar barStyle="light-content" backgroundColor="#0b090b" />
+      <AppStore>
+        <AppContent />
+      </AppStore>
     </SafeAreaProvider>
   );
 }
-
-function AppContent() {
-  const safeAreaInsets = useSafeAreaInsets();
-
-  return (
-    <View style={styles.container}>
-      <NewAppScreen
-        templateFileName="App.tsx"
-        safeAreaInsets={safeAreaInsets}
-      />
-    </View>
-  );
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-  },
-});
-
-export default App;

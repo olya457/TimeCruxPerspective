@@ -1,0 +1,902 @@
+[
+  {
+    "id": "quizzes-1",
+    "statements": [
+      "You are upset and want to reply immediately.",
+      "A friend keeps ignoring your boundaries.",
+      "Two options both have serious downsides."
+    ],
+    "matches": [
+      {
+        "text": "Pause before reacting.",
+        "target": 0
+      },
+      {
+        "text": "Set a clear limit.",
+        "target": 1
+      },
+      {
+        "text": "Compare the trade-offs.",
+        "target": 2
+      },
+      {
+        "text": "Avoid thinking about it.",
+        "target": null
+      },
+      {
+        "text": "Choose what others expect.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-2",
+    "statements": [
+      "You only want something because everyone else has it.",
+      "You cannot understand the other person’s reaction.",
+      "You keep saying yes because you feel guilty."
+    ],
+    "matches": [
+      {
+        "text": "Check for social pressure.",
+        "target": 0
+      },
+      {
+        "text": "Switch perspective.",
+        "target": 1
+      },
+      {
+        "text": "Review your boundaries.",
+        "target": 2
+      },
+      {
+        "text": "Decide faster.",
+        "target": null
+      },
+      {
+        "text": "Ignore your discomfort.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-3",
+    "statements": [
+      "You are choosing between safety and growth.",
+      "You are assuming the worst without evidence.",
+      "You keep delaying a difficult conversation."
+    ],
+    "matches": [
+      {
+        "text": "Identify the trade-off.",
+        "target": 0
+      },
+      {
+        "text": "Separate facts from assumptions.",
+        "target": 1
+      },
+      {
+        "text": "Name what you are avoiding.",
+        "target": 2
+      },
+      {
+        "text": "Follow the easiest option.",
+        "target": null
+      },
+      {
+        "text": "Wait until the problem disappears.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-4",
+    "statements": [
+      "Your decision feels right only because it is familiar.",
+      "You care too much about how others will judge your choice.",
+      "You are unsure what matters most."
+    ],
+    "matches": [
+      {
+        "text": "Question the comfort zone.",
+        "target": 0
+      },
+      {
+        "text": "Remove the audience.",
+        "target": 1
+      },
+      {
+        "text": "Rank your priorities.",
+        "target": 2
+      },
+      {
+        "text": "Copy someone else’s choice.",
+        "target": null
+      },
+      {
+        "text": "Choose randomly.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-5",
+    "statements": [
+      "Someone apologizes but repeats the same behavior.",
+      "You want to help, but the pattern is becoming unhealthy.",
+      "You are deciding based on fear of regret."
+    ],
+    "matches": [
+      {
+        "text": "Look for changed behavior.",
+        "target": 0
+      },
+      {
+        "text": "Help without enabling.",
+        "target": 1
+      },
+      {
+        "text": "Compare both possible regrets.",
+        "target": 2
+      },
+      {
+        "text": "Always give another chance.",
+        "target": null
+      },
+      {
+        "text": "Ignore the pattern.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-6",
+    "statements": [
+      "You agree just to avoid conflict.",
+      "You are treating one bad outcome as guaranteed.",
+      "You do not know whether your choice is really yours."
+    ],
+    "matches": [
+      {
+        "text": "Ask what you actually want.",
+        "target": 2
+      },
+      {
+        "text": "Challenge the worst-case assumption.",
+        "target": 1
+      },
+      {
+        "text": "Notice conflict avoidance.",
+        "target": 0
+      },
+      {
+        "text": "Do what keeps everyone happy.",
+        "target": null
+      },
+      {
+        "text": "Stop asking questions.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-7",
+    "statements": [
+      "You keep helping someone who never changes their behavior.",
+      "You are choosing based on what will impress others.",
+      "You are stuck because both options feel imperfect."
+    ],
+    "matches": [
+      {
+        "text": "Separate support from rescue.",
+        "target": 0
+      },
+      {
+        "text": "Remove external approval.",
+        "target": 1
+      },
+      {
+        "text": "Accept the trade-off.",
+        "target": 2
+      },
+      {
+        "text": "Wait for a perfect option.",
+        "target": null
+      },
+      {
+        "text": "Do what looks best publicly.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-8",
+    "statements": [
+      "You assume someone is angry without asking them.",
+      "You keep agreeing to plans you do not want.",
+      "You are focused only on the short-term benefit."
+    ],
+    "matches": [
+      {
+        "text": "Check the evidence.",
+        "target": 0
+      },
+      {
+        "text": "Revisit your boundaries.",
+        "target": 1
+      },
+      {
+        "text": "Look at long-term consequences.",
+        "target": 2
+      },
+      {
+        "text": "Ignore your first reaction.",
+        "target": null
+      },
+      {
+        "text": "Choose the fastest reward.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-9",
+    "statements": [
+      "You want to quit because progress is slow.",
+      "You are afraid to disappoint your family.",
+      "You cannot decide because you are comparing too many factors."
+    ],
+    "matches": [
+      {
+        "text": "Separate discomfort from disinterest.",
+        "target": 0
+      },
+      {
+        "text": "Separate guilt from responsibility.",
+        "target": 1
+      },
+      {
+        "text": "Rank what matters most.",
+        "target": 2
+      },
+      {
+        "text": "Let someone else choose.",
+        "target": null
+      },
+      {
+        "text": "Avoid deciding.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-10",
+    "statements": [
+      "You are angry, so every option feels wrong.",
+      "You trust someone’s promise more than their behavior.",
+      "You are saying yes because you fear missing out."
+    ],
+    "matches": [
+      {
+        "text": "Wait for emotional distance.",
+        "target": 0
+      },
+      {
+        "text": "Judge the pattern, not the promise.",
+        "target": 1
+      },
+      {
+        "text": "Check whether you actually want it.",
+        "target": 2
+      },
+      {
+        "text": "Act before the feeling changes.",
+        "target": null
+      },
+      {
+        "text": "Follow the crowd.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-11",
+    "statements": [
+      "You want to avoid a difficult conversation.",
+      "You are blaming yourself for something outside your control.",
+      "You are choosing the safer option only because it is familiar."
+    ],
+    "matches": [
+      {
+        "text": "Name what you are avoiding.",
+        "target": 0
+      },
+      {
+        "text": "Separate control from responsibility.",
+        "target": 1
+      },
+      {
+        "text": "Question familiarity.",
+        "target": 2
+      },
+      {
+        "text": "Stay silent.",
+        "target": null
+      },
+      {
+        "text": "Choose comfort automatically.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-12",
+    "statements": [
+      "You are trying to please everyone.",
+      "You are judging a decision by one possible bad outcome.",
+      "You know what you want but keep asking for more opinions."
+    ],
+    "matches": [
+      {
+        "text": "Accept that someone may disagree.",
+        "target": 0
+      },
+      {
+        "text": "Consider multiple outcomes.",
+        "target": 1
+      },
+      {
+        "text": "Trust your own reasoning.",
+        "target": 2
+      },
+      {
+        "text": "Ask even more people.",
+        "target": null
+      },
+      {
+        "text": "Avoid responsibility for the choice.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-13",
+    "statements": [
+      "You keep saying yes because you fear disappointing someone.",
+      "You are treating one mistake as proof that everything will fail.",
+      "You cannot choose because you want zero risk."
+    ],
+    "matches": [
+      {
+        "text": "Separate guilt from choice.",
+        "target": 0
+      },
+      {
+        "text": "Avoid overgeneralizing.",
+        "target": 1
+      },
+      {
+        "text": "Accept that every option has risk.",
+        "target": 2
+      },
+      {
+        "text": "Let fear decide.",
+        "target": null
+      },
+      {
+        "text": "Wait until certainty appears.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-14",
+    "statements": [
+      "You want to respond before you understand the full story.",
+      "You keep comparing yourself with someone else.",
+      "You are ignoring a repeated pattern because each event seems small."
+    ],
+    "matches": [
+      {
+        "text": "Gather more context first.",
+        "target": 0
+      },
+      {
+        "text": "Return to your own criteria.",
+        "target": 1
+      },
+      {
+        "text": "Look at the pattern, not one event.",
+        "target": 2
+      },
+      {
+        "text": "React immediately.",
+        "target": null
+      },
+      {
+        "text": "Assume small issues do not matter.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-15",
+    "statements": [
+      "You are choosing the option that is easiest to explain to others.",
+      "You keep avoiding a decision because no option feels perfect.",
+      "You are focusing on intent while ignoring impact."
+    ],
+    "matches": [
+      {
+        "text": "Choose by your own values.",
+        "target": 0
+      },
+      {
+        "text": "Accept an imperfect choice.",
+        "target": 1
+      },
+      {
+        "text": "Consider the actual effect.",
+        "target": 2
+      },
+      {
+        "text": "Pick what sounds best.",
+        "target": null
+      },
+      {
+        "text": "Ignore consequences.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-16",
+    "statements": [
+      "You are staying because leaving feels scary.",
+      "You keep helping because you feel responsible for another adult.",
+      "You are making a permanent decision based on a temporary emotion."
+    ],
+    "matches": [
+      {
+        "text": "Separate fear from desire.",
+        "target": 0
+      },
+      {
+        "text": "Check where your responsibility ends.",
+        "target": 1
+      },
+      {
+        "text": "Wait for emotional distance.",
+        "target": 2
+      },
+      {
+        "text": "Do nothing forever.",
+        "target": null
+      },
+      {
+        "text": "Decide at the emotional peak.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-17",
+    "statements": [
+      "You think silence will automatically avoid conflict.",
+      "You assume someone should know what you need without being told.",
+      "You keep defending a choice because you already invested time in it."
+    ],
+    "matches": [
+      {
+        "text": "Notice avoidance.",
+        "target": 0
+      },
+      {
+        "text": "Communicate directly.",
+        "target": 1
+      },
+      {
+        "text": "Ignore sunk cost.",
+        "target": 2
+      },
+      {
+        "text": "Keep everything unspoken.",
+        "target": null
+      },
+      {
+        "text": "Continue only because you started.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-18",
+    "statements": [
+      "You are more focused on being right than solving the problem.",
+      "You keep delaying because you want more information, but you already have enough.",
+      "You are confusing discomfort with danger."
+    ],
+    "matches": [
+      {
+        "text": "Focus on the outcome, not winning.",
+        "target": 0
+      },
+      {
+        "text": "Recognize overthinking.",
+        "target": 1
+      },
+      {
+        "text": "Separate discomfort from real risk.",
+        "target": 2
+      },
+      {
+        "text": "Keep arguing.",
+        "target": null
+      },
+      {
+        "text": "Keep researching forever.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-19",
+    "statements": [
+      "You forgive words quickly but ignore unchanged behavior.",
+      "You are saying yes because the opportunity feels rare.",
+      "You are judging yourself more harshly than you would judge a friend."
+    ],
+    "matches": [
+      {
+        "text": "Watch the pattern.",
+        "target": 0
+      },
+      {
+        "text": "Question scarcity pressure.",
+        "target": 1
+      },
+      {
+        "text": "Apply the same standard to yourself.",
+        "target": 2
+      },
+      {
+        "text": "Believe every promise.",
+        "target": null
+      },
+      {
+        "text": "Rush because it may disappear.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-20",
+    "statements": [
+      "You are making assumptions about someone’s motives.",
+      "You keep choosing immediate relief over long-term benefit.",
+      "You are afraid that setting a boundary will make you selfish."
+    ],
+    "matches": [
+      {
+        "text": "Separate facts from interpretation.",
+        "target": 0
+      },
+      {
+        "text": "Compare short-term and long-term outcomes.",
+        "target": 1
+      },
+      {
+        "text": "Redefine what a healthy boundary means.",
+        "target": 2
+      },
+      {
+        "text": "Assume the worst.",
+        "target": null
+      },
+      {
+        "text": "Avoid boundaries completely.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-21",
+    "statements": [
+      "You are changing your answer depending on who is watching.",
+      "You keep waiting for motivation before starting.",
+      "You are avoiding a choice because you fear responsibility."
+    ],
+    "matches": [
+      {
+        "text": "Remove the audience.",
+        "target": 0
+      },
+      {
+        "text": "Act before motivation arrives.",
+        "target": 1
+      },
+      {
+        "text": "Accept ownership of the choice.",
+        "target": 2
+      },
+      {
+        "text": "Wait for perfect confidence.",
+        "target": null
+      },
+      {
+        "text": "Let someone else decide.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-22",
+    "statements": [
+      "You keep explaining yourself to people who did not ask.",
+      "You are treating uncertainty as a sign to stop.",
+      "You focus only on what you may lose."
+    ],
+    "matches": [
+      {
+        "text": "Stop over-justifying.",
+        "target": 0
+      },
+      {
+        "text": "Accept uncertainty.",
+        "target": 1
+      },
+      {
+        "text": "Consider what you may gain.",
+        "target": 2
+      },
+      {
+        "text": "Defend every choice.",
+        "target": null
+      },
+      {
+        "text": "Assume loss is more important.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-23",
+    "statements": [
+      "You agree because everyone else agrees.",
+      "You keep revisiting a decision you already made carefully.",
+      "You confuse urgency with importance."
+    ],
+    "matches": [
+      {
+        "text": "Check your own view.",
+        "target": 0
+      },
+      {
+        "text": "Stop reopening settled choices.",
+        "target": 1
+      },
+      {
+        "text": "Separate urgency from value.",
+        "target": 2
+      },
+      {
+        "text": "Follow the majority automatically.",
+        "target": null
+      },
+      {
+        "text": "Treat every urgent thing as important.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-24",
+    "statements": [
+      "You are afraid to disappoint someone who expects too much.",
+      "You think one uncomfortable conversation will ruin the relationship.",
+      "You keep choosing what feels easiest today."
+    ],
+    "matches": [
+      {
+        "text": "Question the expectation.",
+        "target": 0
+      },
+      {
+        "text": "Challenge catastrophic thinking.",
+        "target": 1
+      },
+      {
+        "text": "Look beyond immediate comfort.",
+        "target": 2
+      },
+      {
+        "text": "Avoid the conversation.",
+        "target": null
+      },
+      {
+        "text": "Choose only by convenience.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-25",
+    "statements": [
+      "You assume being kind means always agreeing.",
+      "You keep waiting for someone else to change first.",
+      "You are stuck comparing yourself to your past self."
+    ],
+    "matches": [
+      {
+        "text": "Separate kindness from agreement.",
+        "target": 0
+      },
+      {
+        "text": "Focus on what you can change.",
+        "target": 1
+      },
+      {
+        "text": "Judge yourself by current values.",
+        "target": 2
+      },
+      {
+        "text": "Agree to avoid tension.",
+        "target": null
+      },
+      {
+        "text": "Wait indefinitely.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-26",
+    "statements": [
+      "You are reacting to tone instead of content.",
+      "You keep a commitment only because you already invested time in it.",
+      "You want everyone to understand your decision."
+    ],
+    "matches": [
+      {
+        "text": "Separate message from delivery.",
+        "target": 0
+      },
+      {
+        "text": "Ignore sunk cost.",
+        "target": 1
+      },
+      {
+        "text": "Accept that not everyone will understand.",
+        "target": 2
+      },
+      {
+        "text": "Focus only on tone.",
+        "target": null
+      },
+      {
+        "text": "Stay committed no matter what.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-27",
+    "statements": [
+      "You are choosing based on what sounds impressive.",
+      "You keep asking “what if?” until every option feels dangerous.",
+      "You avoid setting a limit because the issue seems small."
+    ],
+    "matches": [
+      {
+        "text": "Return to what actually matters.",
+        "target": 0
+      },
+      {
+        "text": "Stop endless scenario-building.",
+        "target": 1
+      },
+      {
+        "text": "Address the pattern early.",
+        "target": 2
+      },
+      {
+        "text": "Choose for status.",
+        "target": null
+      },
+      {
+        "text": "Ignore small repeated issues.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-28",
+    "statements": [
+      "You are holding onto resentment after the situation changed.",
+      "You think changing your mind means you were wrong before.",
+      "You avoid asking for help because you want full control."
+    ],
+    "matches": [
+      {
+        "text": "Update your view with new evidence.",
+        "target": 0
+      },
+      {
+        "text": "Allow yourself to revise a decision.",
+        "target": 1
+      },
+      {
+        "text": "Separate independence from isolation.",
+        "target": 2
+      },
+      {
+        "text": "Keep old judgments forever.",
+        "target": null
+      },
+      {
+        "text": "Refuse support.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-29",
+    "statements": [
+      "You assume disagreement means rejection.",
+      "You keep making exceptions until they become the rule.",
+      "You are deciding only from your current mood."
+    ],
+    "matches": [
+      {
+        "text": "Separate disagreement from relationship.",
+        "target": 0
+      },
+      {
+        "text": "Notice boundary drift.",
+        "target": 1
+      },
+      {
+        "text": "Check the decision later.",
+        "target": 2
+      },
+      {
+        "text": "Avoid all disagreement.",
+        "target": null
+      },
+      {
+        "text": "Trust every temporary feeling.",
+        "target": null
+      }
+    ]
+  },
+  {
+    "id": "quizzes-30",
+    "statements": [
+      "You focus on what is fair but ignore what is practical.",
+      "You keep waiting for a sign instead of choosing.",
+      "You are trying to solve a problem that is not yours."
+    ],
+    "matches": [
+      {
+        "text": "Balance principle with reality.",
+        "target": 0
+      },
+      {
+        "text": "Stop outsourcing the decision.",
+        "target": 1
+      },
+      {
+        "text": "Return responsibility to the right person.",
+        "target": 2
+      },
+      {
+        "text": "Wait for fate to decide.",
+        "target": null
+      },
+      {
+        "text": "Take responsibility for everything.",
+        "target": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,624 @@
+[
+  {
+    "id": "choices-1",
+    "title": "The City Offer, With a Parent Who Is Getting Older",
+    "category": "Family, Career",
+    "depth": 4,
+    "situation": "You receive a strong job offer in another city. It would increase your income and responsibility, but one of your parents is getting older and currently lives close enough that you can help when needed. Nobody is asking you to stay, but you know distance will change what “being available” means.",
+    "intro": "Every option costs something real. Choose the compromise you are most willing to live with — there is no correct answer.",
+    "options": [
+      {
+        "title": "Take the offer",
+        "description": "Higher pay, bigger role, less presence.",
+        "gains": [
+          "+38% income",
+          "Stronger career trajectory",
+          "New professional network"
+        ],
+        "costs": [
+          "Less time with family",
+          "Unfamiliar city",
+          "Less ability to help spontaneously"
+        ],
+        "risk": "Medium–High"
+      },
+      {
+        "title": "Stay and renegotiate",
+        "description": "Known ground, slower climb.",
+        "gains": [
+          "Stay close to family",
+          "Keep your support network",
+          "More predictable year"
+        ],
+        "costs": [
+          "Slower career growth",
+          "The salary gap remains",
+          "You may wonder what you missed"
+        ],
+        "risk": "Low–Medium"
+      },
+      {
+        "title": "Ask for six months",
+        "description": "Buy time, risk the opportunity.",
+        "gains": [
+          "More information",
+          "Time to prepare your family",
+          "Chance to test alternatives"
+        ],
+        "costs": [
+          "Offer may disappear",
+          "Months of uncertainty",
+          "Decision remains unresolved"
+        ],
+        "risk": "Medium"
+      }
+    ],
+    "priorities": [
+      "Being near family",
+      "Income growth",
+      "Career challenge",
+      "Stability",
+      "Independence"
+    ],
+    "values": ["Presence", "Ambition", "Security", "Autonomy"],
+    "resultExample": "You chose presence over pace.\nYou prioritised:\n Being reachable when your family needs you.\nYou accepted:\n A slower professional climb, at least for now.\nValues behind the choice:\n Presence — High\n Security — Medium–High\n Ambition — Medium\nAnother way to read it:\n Staying can be an act of care, but it can also be the option that asks the fewest uncomfortable questions. Leaving would not necessarily mean choosing career over family; it could also mean trusting that closeness is not measured only in kilometres."
+  },
+  {
+    "id": "choices-2",
+    "title": "The Promotion That Takes Your Evenings",
+    "category": "Work, Boundaries",
+    "depth": 4,
+    "situation": "You are offered a promotion you have worked toward for years. The salary and title are better, but everyone in the role regularly works late and stays available on weekends.",
+    "intro": "",
+    "options": [
+      {
+        "title": "Accept the promotion",
+        "description": "More influence, less separation.",
+        "gains": [
+          "Higher salary",
+          "Stronger title",
+          "Greater decision-making power"
+        ],
+        "costs": [
+          "Evenings become less predictable",
+          "More responsibility outside office hours",
+          "Less personal time"
+        ],
+        "risk": "Medium–High"
+      },
+      {
+        "title": "Decline and stay where you are",
+        "description": "Protect your time, delay advancement.",
+        "gains": [
+          "Keep current balance",
+          "Familiar workload",
+          "More personal freedom"
+        ],
+        "costs": [
+          "Slower progression",
+          "Possible frustration later",
+          "Opportunity may not return soon"
+        ],
+        "risk": "Low–Medium"
+      },
+      {
+        "title": "Accept only with conditions",
+        "description": "Negotiate the role before taking it.",
+        "gains": [
+          "Possible career growth",
+          "Clearer boundaries",
+          "Tests how flexible the company really is"
+        ],
+        "costs": [
+          "Could weaken the offer",
+          "Expectations may drift later",
+          "Requires an uncomfortable negotiation"
+        ],
+        "risk": "Medium"
+      }
+    ],
+    "priorities": [
+      "Career growth",
+      "Personal time",
+      "Income",
+      "Recognition",
+      "Flexibility"
+    ],
+    "values": ["Growth", "Freedom", "Security", "Balance"],
+    "resultExample": "You chose growth with conditions.\nYou prioritised:\n Progress without giving unlimited access to your time.\nYou accepted:\n The possibility that the company may value availability more than your preferred boundary.\nAnother way to read it:\n Negotiating is not automatically the “balanced” choice. Sometimes it creates the comforting belief that you can have both options without fully accepting the culture of the role you are entering."
+  },
+  {
+    "id": "choices-3",
+    "title": "Lending Money to a Friend Who Has Struggled Before",
+    "category": "Money, Friendship",
+    "depth": 4,
+    "situation": "A close friend asks for a meaningful loan. They genuinely need help, but they have borrowed before and repayment has rarely happened on time.",
+    "intro": "",
+    "options": [
+      {
+        "title": "Lend the full amount",
+        "description": "Maximum help, maximum exposure.",
+        "gains": [
+          "Immediate relief for your friend",
+          "You act on your desire to help",
+          "May strengthen trust if repaid"
+        ],
+        "costs": [
+          "Financial risk",
+          "Possible resentment",
+          "Money enters the friendship"
+        ],
+        "risk": "High"
+      },
+      {
+        "title": "Give a smaller amount as a gift",
+        "description": "Help without creating debt between you.",
+        "gains": [
+          "Limits financial exposure",
+          "No repayment tension",
+          "Still provides support"
+        ],
+        "costs": [
+          "You lose the money permanently",
+          "May not solve their problem",
+          "Could create future expectations"
+        ],
+        "risk": "Medium"
+      },
+      {
+        "title": "Say no to money, help another way",
+        "description": "Protect the friendship from a financial arrangement.",
+        "gains": [
+          "Keeps financial boundaries clear",
+          "Encourages another solution",
+          "No repayment conflict"
+        ],
+        "costs": [
+          "Friend may feel unsupported",
+          "You may feel guilty",
+          "Their immediate problem remains"
+        ],
+        "risk": "Low–Medium"
+      }
+    ],
+    "priorities": [
+      "Helping someone I care about",
+      "Protecting the friendship",
+      "Protecting my finances",
+      "Avoiding resentment",
+      "Encouraging independence"
+    ],
+    "values": ["Care", "Stability", "Boundaries", "Loyalty"],
+    "resultExample": "You chose support without debt.\nYou prioritised:\n Helping while keeping the friendship outside a lender–borrower dynamic.\nYou accepted:\n That your version of help may not be the version your friend wanted.\nAnother way to read it:\n A smaller gift can look like the safest compromise, but it can also postpone the harder question: whether repeated rescue is helping the person or simply making the pattern easier to continue."
+  },
+  {
+    "id": "choices-4",
+    "title": "Staying With a Partner Who Wants a Different Future",
+    "category": "Relationships, Future",
+    "depth": 4,
+    "situation": "Your relationship is good now, but you disagree about a major future decision. Neither of you expects to change your mind soon.",
+    "intro": "",
+    "options": [
+      {
+        "title": "Stay and hope the future becomes clearer",
+        "description": "Keep what works now.",
+        "gains": [
+          "Preserve a meaningful relationship",
+          "More time together",
+          "Future views may genuinely change"
+        ],
+        "costs": [
+          "Deeper attachment",
+          "Bigger future conflict",
+          "Important decision remains unresolved"
+        ],
+        "risk": "High"
+      },
+      {
+        "title": "End the relationship now",
+        "description": "Protect long-term compatibility at an immediate emotional cost.",
+        "gains": [
+          "Avoid a deeper mismatch later",
+          "Freedom to pursue the future you want",
+          "Clear decision"
+        ],
+        "costs": [
+          "Lose a relationship that currently works",
+          "Immediate grief",
+          "Possibility of future regret"
+        ],
+        "risk": "Medium–High"
+      },
+      {
+        "title": "Set a date to revisit the issue",
+        "description": "Stay, but stop treating the question as indefinite.",
+        "gains": [
+          "Time without pretending the conflict is solved",
+          "Clear review point",
+          "More intentional conversations"
+        ],
+        "costs": [
+          "Emotional countdown",
+          "Decision still postponed",
+          "Either person may feel evaluated"
+        ],
+        "risk": "Medium"
+      }
+    ],
+    "priorities": [
+      "Present happiness",
+      "Long-term compatibility",
+      "Time",
+      "Emotional security",
+      "Future plans"
+    ],
+    "values": ["Love", "Alignment", "Time", "Certainty"],
+    "resultExample": "You chose the present, with a deadline.\nYou prioritised:\n Giving the relationship a real chance without treating uncertainty as permanent.\nYou accepted:\n That more time may make an eventual separation harder.\nAnother way to read it:\n A deadline can create clarity, but it can also become a sophisticated form of delay if neither person is using the time to learn anything new."
+  },
+  {
+    "id": "choices-5",
+    "title": "The House You Love but Should Barely Afford",
+    "category": "Money, Lifestyle",
+    "depth": 3,
+    "situation": "You find a home that fits almost everything you want. You can technically afford it, but the monthly cost would significantly reduce your savings and flexibility.",
+    "intro": "",
+    "options": [
+      {
+        "title": "Take the home",
+        "description": "Better daily life, tighter finances.",
+        "gains": [
+          "Better location",
+          "More comfort",
+          "A place you genuinely enjoy"
+        ],
+        "costs": [
+          "Smaller savings buffer",
+          "Less money for travel and hobbies",
+          "Higher monthly pressure"
+        ],
+        "risk": "Medium–High"
+      },
+      {
+        "title": "Choose a cheaper place",
+        "description": "Less excitement, more flexibility.",
+        "gains": [
+          "Stronger savings",
+          "Lower financial pressure",
+          "More freedom elsewhere"
+        ],
+        "costs": [
+          "Less ideal home",
+          "Possible longer commute",
+          "You may keep comparing it to the first option"
+        ],
+        "risk": "Low"
+      },
+      {
+        "title": "Wait three months",
+        "description": "Protect flexibility, lose certainty.",
+        "gains": [
+          "More time to search",
+          "More savings",
+          "Better sense of the market"
+        ],
+        "costs": [
+          "This home will probably disappear",
+          "Continued search",
+          "No guarantee of something better"
+        ],
+        "risk": "Medium"
+      }
+    ],
+    "priorities": [
+      "Daily comfort",
+      "Financial security",
+      "Location",
+      "Savings",
+      "Flexibility"
+    ],
+    "values": ["Comfort", "Security", "Freedom", "Experience"],
+    "resultExample": "You chose flexibility over the perfect address.\nYou prioritised:\n Keeping room in your budget for the rest of your life.\nYou accepted:\n Living somewhere that may feel less exciting every day.\nAnother way to read it:\n Financial caution protects freedom, but excessive caution can turn money into something you preserve rather than something that supports the life you actually want."
+  },
+  {
+    "id": "choices-6",
+    "title": "Helping Family When You Are Already Exhausted",
+    "category": "Family, Boundaries",
+    "depth": 3,
+    "situation": "A family member needs regular help for the next few months. You can provide it, but your own schedule is already full and you have started feeling exhausted.",
+    "intro": "",
+    "options": [
+      {
+        "title": "Take on the responsibility",
+        "description": "Be present, absorb the pressure.",
+        "gains": [
+          "Family member gets reliable help",
+          "Less guilt",
+          "You know the situation is handled"
+        ],
+        "costs": [
+          "Less rest",
+          "Less time for your own responsibilities",
+          "Higher risk of resentment"
+        ],
+        "risk": "High"
+      },
+      {
+        "title": "Help less than requested",
+        "description": "Contribute, but set limits.",
+        "gains": [
+          "You still participate",
+          "Protects some personal capacity",
+          "Encourages shared responsibility"
+        ],
+        "costs": [
+          "Someone else must cover the gap",
+          "Family may push back",
+          "You may still feel guilty"
+        ],
+        "risk": "Medium"
+      },
+      {
+        "title": "Refuse the ongoing role",
+        "description": "Protect your capacity completely.",
+        "gains": [
+          "Preserve your energy",
+          "Clear boundary",
+          "Forces another solution"
+        ],
+        "costs": [
+          "Family disappointment",
+          "Possible conflict",
+          "You may question yourself later"
+        ],
+        "risk": "Medium"
+      }
+    ],
+    "priorities": [
+      "Family responsibility",
+      "Personal health",
+      "Fairness",
+      "Reliability",
+      "Independence"
+    ],
+    "values": ["Care", "Capacity", "Fairness", "Boundaries"],
+    "resultExample": "You chose to help without becoming the whole solution.\nYou prioritised:\n Being useful without making your availability unlimited.\nYou accepted:\n That another person may still believe you could have done more.\nAnother way to read it:\n A boundary can protect your energy, but “protecting capacity” can also become an easy phrase for avoiding difficult family responsibility. The important question is not whether you could do more, but whether doing more is sustainable and fairly shared."
+  },
+  {
+    "id": "choices-7",
+    "title": "The Friend Group That No Longer Feels Like Yours",
+    "category": "Friendship, Belonging",
+    "depth": 3,
+    "situation": "You have known the same group for years, but lately you often leave gatherings feeling disconnected. Nobody has done anything particularly wrong.",
+    "intro": "",
+    "options": [
+      {
+        "title": "Keep showing up",
+        "description": "Protect history, tolerate the mismatch.",
+        "gains": [
+          "Maintain long relationships",
+          "Keep shared traditions",
+          "Avoid sudden distance"
+        ],
+        "costs": [
+          "Time spent in connections that feel weaker",
+          "Less space for new people",
+          "Increasing emotional distance"
+        ],
+        "risk": "Low–Medium"
+      },
+      {
+        "title": "Gradually step back",
+        "description": "Keep the relationships, change their place in your life.",
+        "gains": [
+          "More time for other relationships",
+          "No dramatic break",
+          "Lets the group evolve naturally"
+        ],
+        "costs": [
+          "Less closeness",
+          "You may stop being included",
+          "Some friendships may fade completely"
+        ],
+        "risk": "Medium"
+      },
+      {
+        "title": "Tell them how you feel",
+        "description": "Create a chance for the friendships to change.",
+        "gains": [
+          "Honest conversation",
+          "Possibility of deeper connection",
+          "You stop guessing"
+        ],
+        "costs": [
+          "Awkwardness",
+          "Others may not feel the same",
+          "Could make the distance more visible"
+        ],
+        "risk": "Medium–High"
+      }
+    ],
+    "priorities": [
+      "History",
+      "Belonging",
+      "Honesty",
+      "Personal growth",
+      "Social energy"
+    ],
+    "values": ["Connection", "Growth", "Loyalty", "Authenticity"],
+    "resultExample": "You chose change without a dramatic ending.\nYou prioritised:\n Making space for relationships that fit who you are now.\nYou accepted:\n That some old connections may weaken without anyone being at fault.\nAnother way to read it:\n Growing apart can be natural, but quietly stepping back also means deciding for everyone without giving the friendship a chance to adapt."
+  },
+  {
+    "id": "choices-8",
+    "title": "Telling the Truth When Silence Would Be Easier",
+    "category": "Friendship, Boundaries",
+    "depth": 4,
+    "situation": "A friend asks for your honest opinion about a major decision they are excited about. You see serious problems they seem to be overlooking.",
+    "intro": "",
+    "options": [
+      {
+        "title": "Tell them exactly what you think",
+        "description": "Maximum honesty, real emotional risk.",
+        "gains": [
+          "They receive your real perspective",
+          "No hidden disagreement",
+          "Could prevent a mistake"
+        ],
+        "costs": ["May hurt them", "Could damage trust", "You may be wrong"],
+        "risk": "High"
+      },
+      {
+        "title": "Ask questions instead of giving a verdict",
+        "description": "Help them examine the decision themselves.",
+        "gains": [
+          "Less confrontational",
+          "Encourages their own reasoning",
+          "Gives you more context"
+        ],
+        "costs": [
+          "Your concern may remain unclear",
+          "They may miss the point",
+          "Feels less direct"
+        ],
+        "risk": "Low–Medium"
+      },
+      {
+        "title": "Support them and stay quiet",
+        "description": "Protect the relationship, keep your doubts private.",
+        "gains": [
+          "Preserves excitement",
+          "Avoids conflict",
+          "Respects their autonomy"
+        ],
+        "costs": [
+          "You may regret not speaking",
+          "They lose information you could have offered",
+          "Silence may later look dishonest"
+        ],
+        "risk": "Medium"
+      }
+    ],
+    "priorities": [
+      "Honesty",
+      "Loyalty",
+      "Autonomy",
+      "Protecting the relationship",
+      "Preventing harm"
+    ],
+    "values": ["Truth", "Care", "Respect", "Loyalty"],
+    "resultExample": "You chose questions over a verdict.\nYou prioritised:\n Helping your friend think without taking the decision away from them.\nYou accepted:\n That subtlety may not communicate how serious your concern actually is.\nAnother way to read it:\n Questions can be respectful, but they can also become a way to avoid the discomfort of saying plainly what you believe."
+  },
+  {
+    "id": "choices-9",
+    "title": "Leaving a Good Job for Work That Matters More",
+    "category": "Career, Money",
+    "depth": 4,
+    "situation": "Your current job pays well and is comfortable. Another role would pay less but gives you work you find far more meaningful.",
+    "intro": "",
+    "options": [
+      {
+        "title": "Take the meaningful role",
+        "description": "More purpose, less money.",
+        "gains": [
+          "Work you care about",
+          "More intrinsic motivation",
+          "New direction"
+        ],
+        "costs": [
+          "Lower income",
+          "Less financial flexibility",
+          "Unknown workplace"
+        ],
+        "risk": "Medium–High"
+      },
+      {
+        "title": "Stay where you are",
+        "description": "Protect stability, keep searching.",
+        "gains": [
+          "Strong income",
+          "Familiar environment",
+          "Lower immediate risk"
+        ],
+        "costs": [
+          "Work remains unfulfilling",
+          "Opportunity may disappear",
+          "Comfort may become inertia"
+        ],
+        "risk": "Low"
+      },
+      {
+        "title": "Stay temporarily with an exit plan",
+        "description": "Build financial runway before changing.",
+        "gains": ["More savings", "Time to prepare", "Reduced financial risk"],
+        "costs": [
+          "Delays the change",
+          "Requires discipline",
+          "“Temporary” may become permanent"
+        ],
+        "risk": "Medium"
+      }
+    ],
+    "priorities": ["Meaning", "Income", "Stability", "Growth", "Lifestyle"],
+    "values": ["Purpose", "Security", "Freedom", "Growth"],
+    "resultExample": "You chose preparation before purpose.\nYou prioritised:\n Making the transition without turning meaningful work into financial panic.\nYou accepted:\n Spending more time in a job you already know does not fit.\nAnother way to read it:\n Preparation can make a change safer. It can also become endlessly extendable. A plan without a date may simply be staying with better vocabulary."
+  },
+  {
+    "id": "choices-10",
+    "title": "Moving in Together Before You Feel Fully Ready",
+    "category": "Relationships, Boundaries",
+    "depth": 3,
+    "situation": "Your partner wants to move in together. The relationship is strong, but you value having your own space and are not completely ready to give it up.",
+    "intro": "",
+    "options": [
+      {
+        "title": "Move in now",
+        "description": "Deepen the relationship, lose some independence.",
+        "gains": [
+          "More time together",
+          "Lower shared expenses",
+          "Learn whether daily life works"
+        ],
+        "costs": [
+          "Less personal space",
+          "Harder separation if it fails",
+          "Lifestyle compromises"
+        ],
+        "risk": "Medium"
+      },
+      {
+        "title": "Wait another year",
+        "description": "Protect independence, test patience.",
+        "gains": [
+          "More time to prepare",
+          "Keep personal space",
+          "Relationship develops without logistical pressure"
+        ],
+        "costs": [
+          "Partner may feel rejected",
+          "Higher combined expenses",
+          "Delays learning whether cohabitation works"
+        ],
+        "risk": "Low–Medium"
+      },
+      {
+        "title": "Try a temporary arrangement",
+        "description": "Test daily life without making it permanent.",
+        "gains": ["Real-world information", "Reversible", "Easier transition"],
+        "costs": [
+          "Can feel artificial",
+          "Moving twice may be inconvenient",
+          "Expectations may still become unclear"
+        ],
+        "risk": "Medium"
+      }
+    ],
+    "priorities": [
+      "Independence",
+      "Commitment",
+      "Financial practicality",
+      "Personal space",
+      "Relationship growth"
+    ],
+    "values": ["Autonomy", "Connection", "Security", "Commitment"],
+    "resultExample": "You chose evidence before permanence.\nYou prioritised:\n Learning what everyday life together actually feels like.\nYou accepted:\n That a trial may feel less romantic and more deliberate than your partner hoped.\nAnother way to read it:\n Testing compatibility can be sensible, but not every part of a relationship can be made risk-free before commitment. At some point, choosing someone means accepting information you cannot have in advance."
+  }
+]

@@ -1,0 +1,836 @@
+1. Saying No to a Close Friend
+Category: Boundaries Depth: 3/4 Estimated reflection time: 5–7 min
+Situation:  A close friend asks to borrow a significant amount of money. You can technically afford it, but you do not feel comfortable giving it.
+Block 1 — Single Choice
+Label: WHAT IS MAKING THIS HARD?
+Question:  What is the strongest reason you are hesitating to say no?
+Options:
+ I am afraid they will think I do not care about them.
+ I feel guilty because I could afford to help.
+ I worry this could damage our friendship.
+ I do not know how to explain my refusal.
+ I am not completely sure I want to refuse.
+Block 2 — Write Your Own Answer
+Label: NAME THE REAL CONCERN
+Question:  If money were removed from the situation, what would you still be worried about?
+Placeholder:  “Without the money part, I would still worry that…”
+Max length: 300 characters
+Block 3 — Multiple Written Answers
+Label: SEPARATE CARE FROM OBLIGATION
+Instruction:  Finish each sentence in your own words.
+Field 1:  Helping my friend would feel right because…
+Field 2:  Helping my friend would feel wrong because…
+Field 3:  What I actually owe this person is…
+Block 4 — Single Choice
+Label: REVERSE THE SITUATION
+Question:  If you were asking a friend for the same amount and they calmly said no, what would you consider reasonable?
+Options:
+ I would understand immediately.
+ I would be disappointed, but I would respect it.
+ I would probably take it personally.
+ It would depend on how they explained it.
+Block 5 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  After thinking through the friendship, your boundaries, and your responsibility, what do you want to do?
+Placeholder:  “My decision is… The main reason is… I want to communicate it by…”
+Max length: 500 characters
+2. A Better Job in Another City
+Category: Career Depth: 4/4 Estimated reflection time: 8–10 min
+Situation:  You receive a job offer in another city. The salary is noticeably better, but accepting it means leaving your current environment, routines, and people behind.
+Block 1 — Single Choice
+Label: FIRST REACTION
+Question:  What did you feel first when you imagined accepting the offer?
+Options:
+ Excitement
+ Fear
+ Relief
+ Curiosity
+ Resistance
+Block 2 — Multiple Written Answers
+Label: WHAT WOULD ACTUALLY CHANGE?
+Field 1:  Three things I would gain:
+Field 2:  Three things I would lose:
+Field 3:  One thing I might be exaggerating:
+Block 3 — Single Choice
+Label: WHAT IS PULLING YOU MOST?
+Question:  If salary were identical in both jobs, what would matter most?
+Options:
+ The work itself
+ Career growth
+ My current relationships
+ Familiarity and comfort
+ The new environment
+ Lifestyle outside work
+Block 4 — Write Your Own Answer
+Label: FEAR OR SIGNAL?
+Question:  What exactly are you afraid might happen if you move?
+Placeholder:  “I am afraid that…”
+Max length: 350 characters
+Block 5 — Write Your Own Answer
+Label: TEST THE OPPOSITE
+Question:  Now imagine you reject the offer. What might you regret six months from now?
+Placeholder:  “If I stay, I may regret…”
+Max length: 350 characters
+Block 6 — Multiple Written Answers
+Label: ADVICE FROM DISTANCE
+Field 1:  If my best friend were in this situation, I would tell them…
+Field 2:  The part of that advice I find hardest to follow myself is…
+Block 7 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What currently feels like the more honest choice, and what information do you still need before deciding?
+Placeholder:  “Right now I am leaning toward… Before deciding, I still need to know…”
+3. Staying in a Relationship That Feels Different
+Category: Relationships Depth: 4/4 Estimated reflection time: 7–9 min
+Situation:  Nothing dramatic has happened, but your relationship no longer feels the way it used to. You are unsure whether this is a temporary phase or a sign that something important has changed.
+Block 1 — Single Choice
+Label: WHAT CHANGED FIRST?
+Question:  Which change feels most noticeable?
+Options:
+ We talk less openly.
+ I feel less excited to spend time together.
+ Small conflicts bother me more.
+ I feel less understood.
+ I cannot identify one specific change.
+Block 2 — Multiple Written Answers
+Label: FACTS VS INTERPRETATIONS
+Field 1:  What has objectively changed?
+Field 2:  What am I assuming those changes mean?
+Block 3 — Write Your Own Answer
+Label: REMOVE THE HISTORY
+Question:  If you met this person today, knowing only how the relationship feels right now, what would you think?
+Placeholder:  “I would probably…”
+Block 4 — Single Choice
+Label: WHAT ARE YOU PROTECTING?
+Question:  What would be hardest to lose?
+Options:
+ The person
+ The shared history
+ Stability
+ Our plans for the future
+ The identity of being together
+ I am not sure
+Block 5 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What conversation, action, or boundary would give you more clarity before making a bigger decision?
+Placeholder:  “Before deciding anything major, I want to…”
+4. Buying Something Expensive You Really Want
+Category: Money Depth: 2/4 Estimated reflection time: 4–5 min
+Situation:  You want to buy something expensive. You can pay for it without going into debt, but the purchase would significantly reduce your savings.
+Block 1 — Single Choice
+Label: WHAT ARE YOU BUYING?
+Question:  What does this purchase represent to you most?
+Options:
+ Convenience
+ Status
+ Enjoyment
+ A reward
+ A practical need
+ A long-term investment
+Block 2 — Write Your Own Answer
+Label: THE WEEK-AFTER TEST
+Question:  Imagine you bought it seven days ago. What would make you feel satisfied with the decision?
+Placeholder:  “I would feel it was worth it if…”
+Block 3 — Multiple Written Answers
+Label: COMPARE THE TWO COSTS
+Field 1:  What do I gain by buying it now?
+Field 2:  What do I give up by spending this money now?
+Field 3:  What happens if I wait 30 days?
+Block 4 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What condition would make this purchase feel like a clear yes or a clear no?
+Placeholder:  “I will buy it if… I will wait if…”
+5. A Colleague Takes Credit for Your Work
+Category: Work Depth: 3/4 Estimated reflection time: 6–8 min
+Situation:  During a meeting, a colleague presents an idea you developed together in a way that makes it sound like it was primarily theirs.
+Block 1 — Single Choice
+Label: YOUR FIRST IMPULSE
+Question:  What do you most want to do?
+Options:
+ Correct them immediately.
+ Speak to them privately afterward.
+ Tell the manager.
+ Ignore it this time.
+ Wait and see if it happens again.
+Block 2 — Write Your Own Answer
+Label: DEFINE THE PROBLEM
+Question:  What exactly bothered you: the loss of recognition, the unfairness, the possible career impact, or something else?
+Placeholder:  “What bothered me most was…”
+Block 3 — Multiple Written Answers
+Label: THREE POSSIBLE EXPLANATIONS
+Instruction:  Write three explanations for what happened, including at least one that is less negative than your first interpretation.
+Field 1:  Explanation 1:
+Field 2:  Explanation 2:
+Field 3:  Explanation 3:
+Block 4 — Single Choice
+Label: WHAT RESULT DO YOU WANT?
+Question:  Which outcome matters most?
+Options:
+ Public recognition
+ Clear boundaries for future work
+ An apology
+ Better communication
+ Protecting the working relationship
+Block 5 — Write Your Own Answer
+Label: SAY IT WITHOUT ATTACKING
+Question:  Write one sentence you could actually say to your colleague.
+Placeholder:  “I wanted to clarify something about today’s meeting…”
+Block 6 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What action gives you the best chance of protecting both your contribution and the working relationship?
+6. A Friend Keeps Canceling Plans
+Category: Friendship Depth: 2/4 Estimated reflection time: 4–6 min
+Situation:  A friend has canceled plans with you several times at the last minute. They always apologize, but you are starting to feel that your time is not being respected.
+Block 1 — Single Choice
+Label: WHAT HURTS MOST?
+Options:
+ Feeling unimportant
+ Losing my time
+ Not knowing whether I can rely on them
+ The repeated apologies without change
+ Feeling foolish for continuing to make plans
+Block 2 — Multiple Written Answers
+Label: LOOK AT THE PATTERN
+Field 1:  What has happened repeatedly?
+Field 2:  What explanation have they given?
+Field 3:  What have I never clearly told them?
+Block 3 — Single Choice
+Label: CHOOSE THE BOUNDARY
+Question:  Which response feels most reasonable?
+Options:
+ Stop initiating plans.
+ Tell them directly how it affects me.
+ Only make flexible plans with them.
+ Give it one more chance.
+ Accept that this is simply how they are.
+Block 4 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What boundary would protect your time without turning the situation into unnecessary conflict?
+7. You Want to Quit Something You Recently Started
+Category: Personal Growth Depth: 3/4 Estimated reflection time: 5–7 min
+Situation:  You started a course, project, hobby, or new routine with enthusiasm. A few weeks later, you feel like quitting.
+Block 1 — Single Choice
+Label: WHY DO YOU WANT TO STOP?
+Options:
+ It is harder than expected.
+ I have lost interest.
+ I do not have enough time.
+ Progress feels too slow.
+ I started for the wrong reason.
+ Something else now matters more.
+Block 2 — Write Your Own Answer
+Label: REMEMBER THE BEGINNING
+Question:  Why did you start in the first place?
+Placeholder:  “I started because…”
+Block 3 — Multiple Written Answers
+Label: QUITTING VS ADJUSTING
+Field 1:  What would happen if I quit completely?
+Field 2:  What would happen if I reduced the commitment instead?
+Field 3:  What is the smallest version I could continue?
+Block 4 — Single Choice
+Label: HONEST CHECK
+Question:  Which statement feels closest to the truth?
+Options:
+ I genuinely do not want this anymore.
+ I want the result but dislike the difficult middle.
+ I am overloaded and need to reduce the pace.
+ I am afraid I will fail.
+ I still cannot tell.
+Block 5 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  Are you quitting, pausing, reducing the commitment, or continuing? Explain why.
+8. Someone Offers You an Opportunity You Did Not Ask For
+Category: Opportunities Depth: 4/4 Estimated reflection time: 7–9 min
+Situation:  You are unexpectedly offered an opportunity that could change your direction: a new role, partnership, trip, project, or responsibility. It sounds exciting, but it was never part of your plan.
+Block 1 — Single Choice
+Label: WHAT ATTRACTS YOU?
+Options:
+ The experience
+ The recognition
+ The people involved
+ The potential future opportunities
+ The money
+ Simply the fact that it is new
+Block 2 — Single Choice
+Label: WHAT MAKES YOU HESITATE?
+Options:
+ I would need to change existing plans.
+ I do not feel ready.
+ I am unsure whether I truly want it.
+ It could take too much time.
+ I am afraid of saying yes for the wrong reason.
+Block 3 — Multiple Written Answers
+Label: OPPORTUNITY OR DISTRACTION?
+Field 1:  How does this support the direction I already want?
+Field 2:  How could this pull me away from that direction?
+Field 3:  What part is exciting mainly because someone chose me?
+Block 4 — Write Your Own Answer
+Label: REMOVE THE EGO
+Question:  If nobody else ever knew you received this opportunity, would you still want it?
+Placeholder:  “Yes / No / Maybe, because…”
+Block 5 — Write Your Own Answer
+Label: THE PRICE OF YES
+Question:  What would you have to stop, delay, or give less attention to if you accepted?
+Block 6 — Single Choice
+Label: WHICH LOSS FEELS WORSE?
+Options:
+ Missing the opportunity
+ Sacrificing my current priorities
+ Disappointing the person who offered it
+ Making the wrong choice
+ I am not sure yet
+Block 7 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  Is this opportunity aligned with your direction, or is it simply difficult to refuse?
+Placeholder:  “I am leaning toward… because… The trade-off I am accepting is…”
+9. You Disagree With Your Partner About a Major Purchase
+Category: Relationships & Money Depth: 3/4 Estimated reflection time: 6–8 min
+Situation:  You want to spend money on something important to you, while your partner believes the money should be saved or used for another priority.
+Block 1 — Single Choice
+Label: WHAT IS THIS REALLY ABOUT?
+Options:
+ Money
+ Different priorities
+ Feeling controlled
+ Feeling unheard
+ Different attitudes toward risk
+ Trust
+Block 2 — Multiple Written Answers
+Label: DEFINE BOTH SIDES
+Field 1:  My strongest argument is…
+Field 2:  Their strongest argument is…
+Field 3:  The part of their argument I actually agree with is…
+Block 3 — Write Your Own Answer
+Label: FIND THE VALUE UNDERNEATH
+Question:  What value are you trying to protect with your position?
+Placeholder:  “Freedom / security / enjoyment / fairness / progress / something else…”
+Block 4 — Write Your Own Answer
+Label: BUILD A THIRD OPTION
+Question:  What compromise is different from both “buy it” and “do not buy it”?
+Block 5 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What outcome would feel fair even if neither person gets exactly what they originally wanted?
+10. You Are Thinking About Ending a Long Friendship
+Category: Friendship Depth: 4/4 Estimated reflection time: 8–10 min
+Situation:  A friendship that once felt important now regularly leaves you drained, frustrated, or uncomfortable. You are wondering whether to distance yourself.
+Block 1 — Multiple Written Answers
+Label: WHAT HAS CHANGED?
+Field 1:  What used to make this friendship valuable?
+Field 2:  What feels different now?
+Field 3:  When did I first notice the change?
+Block 2 — Single Choice
+Label: PATTERN OR PHASE?
+Question:  How does the problem feel?
+Options:
+ A recent temporary phase
+ A repeated pattern
+ Something caused by one unresolved conflict
+ A change in who we both are
+ I genuinely cannot tell
+Block 3 — Write Your Own Answer
+Label: WHAT HAVE YOU TRIED?
+Question:  What have you already done to improve the situation?
+Block 4 — Single Choice
+Label: IMAGINE NOTHING CHANGES
+Question:  If the friendship stayed exactly like this for another year, how would you feel?
+Options:
+ Fine
+ Slightly disappointed
+ Drained
+ Resentful
+ Relieved if we naturally grew apart
+Block 5 — Multiple Written Answers
+Label: TWO KINDS OF LOSS
+Field 1:  What would I lose by stepping away?
+Field 2:  What would I regain by stepping away?
+Block 6 — Write Your Own Answer
+Label: ONE HONEST CONVERSATION
+Question:  If you knew the friendship could survive honesty, what would you finally say?
+Block 7 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What feels more appropriate now: repairing the friendship, changing its boundaries, creating distance, or ending it?
+Placeholder:  “I think the next step should be… because…”
+11. Turning Down a Promotion
+Category: Career Depth: 3/4 Estimated reflection time: 6–8 min
+Situation:  You are offered a promotion with more money and status, but the new role would include responsibilities you are not sure you actually want.
+Block 1 — Single Choice
+Label: WHAT ATTRACTS YOU MOST?
+Question:  What makes the promotion appealing?
+Options:
+ Higher salary
+ Recognition
+ Career progression
+ More influence
+ Fear of missing the opportunity
+ I genuinely want the new work
+Block 2 — Scale
+Label: WANT OR EXPECTATION?
+Question:  How much do you personally want this role, separate from what others may expect from you?
+Scale:  1 — I mostly feel I should want it  5 — I genuinely want it
+Block 3 — Multiple Written Answers
+Label: COMPARE THE REAL JOB
+Field 1:  What would I enjoy more in the new role?
+Field 2:  What would I miss from my current role?
+Field 3:  What new responsibility worries me most?
+Block 4 — Single Choice
+Label: REMOVE THE TITLE
+Question:  If the title and salary stayed the same, would you still want the responsibilities?
+Options:
+ Definitely yes
+ Probably yes
+ Not sure
+ Probably no
+ Definitely no
+Block 5 — Write Your Own Answer
+Label: THE COST OF ACCEPTING
+Question:  What would this promotion require from you outside the job description?
+Placeholder:  “Accepting this would likely require…”
+Block 6 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  Do you want the promotion itself, or mainly what the promotion represents?
+12. Moving Back Closer to Family
+Category: Life Direction Depth: 4/4 Estimated reflection time: 7–10 min
+Situation:  You live far from your family and have built a life elsewhere. You are considering moving closer, but doing so could change your career, independence, and daily routine.
+Block 1 — Multiple Choice
+Label: WHAT IS PULLING YOU BACK?
+Options:
+ I miss my family.
+ Someone may need more support.
+ I feel guilty being far away.
+ I want a slower or more familiar life.
+ I no longer feel connected to where I live now.
+ Several of these reasons
+Block 2 — Multiple Written Answers
+Label: TWO VERSIONS OF HOME
+Field 1:  What does my current life give me?
+Field 2:  What would living near family give me?
+Field 3:  What does neither option solve?
+Block 3 — Ranking
+Label: WHAT MATTERS MOST?
+Instruction:  Rank these from most important to least important.
+Items:
+ Family
+ Career
+ Independence
+ Financial stability
+ Community
+ Lifestyle
+Block 4 — Write Your Own Answer
+Label: GUILT CHECK
+Question:  If nobody felt disappointed by your decision, where would you genuinely prefer to live?
+Block 5 — Write Your Own Answer
+Label: MAKE IT REVERSIBLE
+Question:  Is there a smaller experiment you could try before making a permanent move?
+Placeholder:  “For example, I could…”
+Block 6 — Single Choice
+Label: WHICH REGRET FEELS HEAVIER?
+Options:
+ Missing more time with family
+ Giving up the life I built
+ Making the move and wanting to leave again
+ Staying because of fear
+ I cannot tell yet
+Block 7 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What decision best reflects what you value now, not what you valued several years ago?
+13. Lending Your Car to Someone You Do Not Fully Trust
+Category: Boundaries Depth: 2/4 Estimated reflection time: 4–5 min
+Situation:  Someone close to you asks to borrow your car. You want to help, but you do not fully trust how careful they are.
+Block 1 — Single Choice
+Label: WHAT IS THE REAL RISK?
+Options:
+ Damage to the car
+ Financial responsibility
+ Their driving habits
+ Difficulty saying no
+ Creating a precedent
+Block 2 — Write Your Own Answer
+Label: SAY THE UNSPOKEN PART
+Question:  What are you afraid to tell them directly?
+Block 3 — Multiple Written Answers
+Label: FIND OTHER WAYS TO HELP
+Field 1:  Instead of lending the car, I could…
+Field 2:  A reasonable boundary would be…
+Block 4 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What response lets you help without ignoring your own discomfort?
+14. Posting Something Personal Online
+Category: Digital Life Depth: 3/4 Estimated reflection time: 5–7 min
+Situation:  You want to share something personal online. Part of you wants to be open, while another part wonders whether you may regret making it public.
+Block 1 — Single Choice
+Label: WHY DO YOU WANT TO POST IT?
+Options:
+ To express myself
+ To feel understood
+ To get support
+ To document the moment
+ To get a specific person's attention
+ I am acting emotionally
+Block 2 — Multi-Select
+Label: WHO ARE YOU ACTUALLY TALKING TO?
+Instruction:  Select all that apply.
+Options:
+ Close friends
+ Family
+ Colleagues
+ A specific person
+ Anyone who follows me
+ Myself
+Block 3 — Write Your Own Answer
+Label: TOMORROW MORNING TEST
+Question:  How would you feel if you woke up tomorrow and knew everyone had seen it?
+Block 4 — Single Choice
+Label: WHAT IF THERE WERE NO REACTIONS?
+Question:  Would you still want to post it if nobody could like, comment, or respond?
+Options:
+ Yes
+ Probably
+ Not sure
+ Probably not
+ No
+Block 5 — Multiple Written Answers
+Label: THREE OPTIONS
+Field 1:  What happens if I post it now?
+Field 2:  What happens if I wait 24 hours?
+Field 3:  What happens if I share it privately instead?
+Block 6 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  Is sharing this helping you express something important, or are you hoping the audience will change how you feel?
+15. Giving Someone a Second Chance
+Category: Trust Depth: 4/4 Estimated reflection time: 7–9 min
+Situation:  Someone who disappointed or hurt you asks for another chance. You still care about them, but you are not sure whether trusting them again is wise.
+Block 1 — Single Choice
+Label: WHAT HAPPENED?
+Question:  Which description fits best?
+Options:
+ A one-time mistake
+ A repeated pattern
+ A broken promise
+ Dishonesty
+ A major misunderstanding
+ Something more complicated
+Block 2 — Multiple Written Answers
+Label: APOLOGY VS CHANGE
+Field 1:  What have they said?
+Field 2:  What have they actually done differently?
+Field 3:  What would real change look like to me?
+Block 3 — Scale
+Label: CURRENT TRUST
+Question:  How much trust is actually present right now?
+Scale:  0 — None  10 — Fully restored
+Block 4 — Write Your Own Answer
+Label: DEFINE A SECOND CHANCE
+Question:  What would giving another chance mean in practice?
+Placeholder:  “It would mean I am willing to…, but not willing to…”
+Block 5 — Single Choice
+Label: WHAT ARE YOU AFRAID OF?
+Options:
+ Being hurt again
+ Losing them completely
+ Looking foolish
+ Becoming too guarded
+ Ignoring a genuine change
+Block 6 — Write Your Own Answer
+Label: CONDITIONS, NOT PROMISES
+Question:  What would need to happen for trust to rebuild gradually?
+Block 7 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  Are you ready to reopen trust, keep distance, or wait for more evidence?
+16. Choosing Between Two Good Opportunities
+Category: Decisions Depth: 4/4 Estimated reflection time: 8–10 min
+Situation:  You have two genuinely good options, and choosing one means giving up the other.
+Block 1 — Multiple Written Answers
+Label: NAME THE OPTIONS
+Field 1:  Option A:
+Field 2:  Option B:
+Block 2 — Ranking
+Label: YOUR DECISION CRITERIA
+Instruction:  Rank what matters most.
+Items:
+ Growth
+ Money
+ Stability
+ Freedom
+ Enjoyment
+ Future potential
+ People
+ Lifestyle
+Block 3 — Two-Sided Written Block
+Label: BEST CASE
+Field 1:  Best realistic outcome of Option A:
+Field 2:  Best realistic outcome of Option B:
+Block 4 — Two-Sided Written Block
+Label: WORST CASE
+Field 1:  Worst realistic outcome of Option A:
+Field 2:  Worst realistic outcome of Option B:
+Block 5 — Single Choice
+Label: WHICH OPTION NEEDS MORE EXPLAINING?
+Question:  Which choice do you feel you would need to justify more to other people?
+Options:
+ Option A
+ Option B
+ Both equally
+ Neither
+Block 6 — Write Your Own Answer
+Label: REMOVE OTHER PEOPLE
+Question:  If nobody could judge your choice, which option would you choose?
+Block 7 — Scale
+Label: INNER PULL
+Question:  Where are you leaning right now?
+Scale:  1 — Strongly Option A  5 — Completely undecided  9 — Strongly Option B
+Block 8 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  Which trade-off are you more willing to live with?
+17. Someone Keeps Asking for Advice but Never Takes It
+Category: Communication Depth: 2/4 Estimated reflection time: 4–6 min
+Situation:  Someone regularly comes to you with the same problem, asks for advice, ignores it, then returns with the same issue again.
+Block 1 — Single Choice
+Label: HOW DO YOU FEEL?
+Options:
+ Frustrated
+ Used
+ Worried
+ Tired
+ Responsible
+ Mostly neutral
+Block 2 — Write Your Own Answer
+Label: WHAT ROLE ARE YOU PLAYING?
+Question:  What do you think they actually want from you: advice, reassurance, permission, attention, or simply someone to listen?
+Block 3 — Multiple Written Answers
+Label: CHANGE YOUR RESPONSE
+Field 1:  What do I usually do?
+Field 2:  What could I do differently next time?
+Block 4 — Single Choice
+Label: WHAT BOUNDARY FITS?
+Options:
+ Listen without giving advice.
+ Ask what they want from the conversation first.
+ Tell them I cannot keep discussing the same issue.
+ Keep helping as I do now.
+ Reduce how available I am for this topic.
+Block 5 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  How can you care about this person without taking responsibility for their choices?
+18. Keeping a Secret That Affects Someone Else
+Category: Ethics Depth: 4/4 Estimated reflection time: 7–9 min
+Situation:  Someone trusted you with private information, but you now realize that keeping the secret may negatively affect another person.
+Block 1 — Single Choice
+Label: WHAT ARE YOU PROTECTING?
+Options:
+ The person's trust
+ Someone else's wellbeing
+ My own relationship with both people
+ Privacy
+ Fairness
+Block 2 — Multiple Written Answers
+Label: WHO IS AFFECTED?
+Field 1:  Who could be harmed if I stay silent?
+Field 2:  Who could be harmed if I speak?
+Field 3:  How serious is each possible harm?
+Block 3 — Single Choice
+Label: IS IT YOUR INFORMATION TO SHARE?
+Options:
+ Clearly yes
+ Probably yes
+ Unclear
+ Probably not
+ Clearly not
+Block 4 — Write Your Own Answer
+Label: LOOK FOR A THIRD OPTION
+Question:  Is there a way to encourage the person to address the issue themselves before you intervene?
+Block 5 — Write Your Own Answer
+Label: DRAW THE LINE
+Question:  What would make staying silent no longer acceptable to you?
+Block 6 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What action best balances privacy, trust, and responsibility?
+19. Going Back to a Previous Job
+Category: Career Depth: 3/4 Estimated reflection time: 6–8 min
+Situation:  A previous employer asks whether you would consider returning. You left for a reason, but the new offer is attractive.
+Block 1 — Multiple Written Answers
+Label: REMEMBER WHY YOU LEFT
+Field 1:  The main reason I left was…
+Field 2:  What has actually changed since then?
+Field 3:  What might still be exactly the same?
+Block 2 — Single Choice
+Label: WHAT IS ATTRACTING YOU BACK?
+Options:
+ Better money
+ Familiar people
+ Stability
+ A stronger role
+ Nostalgia
+ Dissatisfaction with where I am now
+Block 3 — Write Your Own Answer
+Label: DO NOT COMPARE TO A BAD WEEK
+Question:  If your current situation suddenly improved, would the old job still seem attractive?
+Block 4 — Single Choice
+Label: IS THE ORIGINAL PROBLEM SOLVED?
+Options:
+ Yes
+ Mostly
+ Partly
+ Probably not
+ I do not have enough information
+Block 5 — Multiple Written Answers
+Label: QUESTIONS BEFORE YES
+Instruction:  Write three things you need clarified before making a decision.
+Field 1:  I need to know…
+Field 2:  I need to know…
+Field 3:  I need to know…
+Block 6 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  Are you being pulled toward a better opportunity, or simply toward something familiar?
+20. Canceling Plans Because You Need Time Alone
+Category: Self-Care & Boundaries Depth: 2/4 Estimated reflection time: 4–5 min
+Situation:  You agreed to meet people, but now the day has arrived and you feel emotionally or mentally drained. You want to cancel, but you feel guilty.
+Block 1 — Single Choice
+Label: WHY DO YOU WANT TO CANCEL?
+Options:
+ I genuinely need rest.
+ I feel anxious about going.
+ I simply do not feel like it.
+ Something else became more important.
+ I often cancel when the time comes.
+Block 2 — Scale
+Label: ENERGY CHECK
+Question:  How much energy do you realistically have for the plan?
+Scale:  1 — Almost none  5 — Plenty
+Block 3 — Write Your Own Answer
+Label: PATTERN CHECK
+Question:  Is this an exception, or do you often want connection when making plans and isolation when the day arrives?
+Block 4 — Single Choice
+Label: WHAT WOULD HELP MOST?
+Options:
+ Cancel completely.
+ Go, but leave earlier.
+ Suggest something quieter.
+ Ask to reschedule.
+ Push myself to go as planned.
+Block 5 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What choice respects both your current capacity and the other person's time?
+21. Sharing Honest Feedback That May Hurt Someone
+Category: Communication Depth: 3/4 Estimated reflection time: 5–7 min
+Situation:  Someone asks for your honest opinion about something important to them. You believe the truth may disappoint or hurt them.
+Block 1 — Single Choice
+Label: WHAT ARE THEY REALLY ASKING FOR?
+Options:
+ Honest feedback
+ Encouragement
+ Reassurance
+ Validation
+ I genuinely cannot tell
+Block 2 — Multiple Written Answers
+Label: TRUTH VS DELIVERY
+Field 1:  What do I genuinely think?
+Field 2:  What part is useful for them to hear?
+Field 3:  What part would only be unnecessarily harsh?
+Block 3 — Write Your Own Answer
+Label: SAY IT WITH CARE
+Question:  Write the most honest version you could say without trying to embarrass or diminish them.
+Block 4 — Single Choice
+Label: IS NOW THE RIGHT TIME?
+Options:
+ Yes
+ Probably
+ Only if they ask again
+ No, they are too emotionally involved right now
+ I am unsure
+Block 5 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  What combination of honesty and care would actually help this person?
+22. Spending More to Save Time
+Category: Money & Time Depth: 3/4 Estimated reflection time: 5–6 min
+Situation:  You can pay more for a service or convenience that would save you several hours each week.
+Block 1 — Single Choice
+Label: WHY ARE YOU HESITATING?
+Options:
+ It feels wasteful.
+ I could do it myself.
+ I am worried about forming an expensive habit.
+ I am unsure whether the saved time is really valuable.
+ The price is genuinely high for my budget.
+Block 2 — Numeric / Written Input
+Label: MAKE THE TRADE VISIBLE
+Field 1:  Extra monthly cost:
+Field 2:  Hours saved per month:
+Block 3 — Multiple Written Answers
+Label: WHAT WOULD HAPPEN TO THE TIME?
+Field 1:  The saved time would probably go toward…
+Field 2:  The money would otherwise go toward…
+Block 4 — Single Choice
+Label: IF IT WERE FREE
+Question:  Would you immediately choose the time-saving option if cost were removed?
+Options:
+ Definitely
+ Probably
+ Not sure
+ Probably not
+ No
+Block 5 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  In this case, is your money more valuable to you than the time you would recover?
+23. Agreeing to Something Because Everyone Else Is Doing It
+Category: Social Pressure Depth: 3/4 Estimated reflection time: 5–7 min
+Situation:  Your friends, colleagues, or peers are excited about doing something together, but you are not sure you actually want to join.
+Block 1 — Single Choice
+Label: FIRST HONEST ANSWER
+Question:  If nobody else were doing it, would you still want to?
+Options:
+ Definitely
+ Probably
+ Maybe
+ Probably not
+ Definitely not
+Block 2 — Multi-Select
+Label: WHAT IS INFLUENCING YOU?
+Options:
+ Fear of missing out
+ Wanting to belong
+ Curiosity
+ Avoiding awkwardness
+ Genuine interest
+ Fear of being judged
+Block 3 — Write Your Own Answer
+Label: WHAT WOULD NO COST?
+Question:  What do you think might happen socially if you say no?
+Block 4 — Write Your Own Answer
+Label: REALISTIC CHECK
+Question:  How likely is that consequence actually to happen?
+Block 5 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  Are you choosing the experience itself, or choosing not to feel left out?
+24. Waiting for Someone to Change
+Category: Relationships Depth: 4/4 Estimated reflection time: 7–9 min
+Situation:  You care about someone, but an important part of the relationship depends on them changing a behavior they have promised to change before.
+Block 1 — Multiple Written Answers
+Label: PROMISES AND PATTERNS
+Field 1:  What have they promised?
+Field 2:  What has actually changed?
+Field 3:  How long have I been waiting?
+Block 2 — Single Choice
+Label: WHAT KEEPS YOU HOPEFUL?
+Options:
+ Their words
+ Small improvements
+ Our history
+ Their potential
+ Fear of leaving too early
+ Love
+Block 3 — Write Your Own Answer
+Label: ACCEPT TODAY'S VERSION
+Question:  If this person never changed this behavior, could you accept the relationship as it is now?
+Block 4 — Scale
+Label: REALITY VS POTENTIAL
+Question:  How much of your decision is based on who they are today versus who you believe they could become?
+Scale:  1 — Mostly who they are today  5 — Mostly their potential
+Block 5 — Multiple Written Answers
+Label: DEFINE CHANGE
+Field 1:  A meaningful sign of change would be…
+Field 2:  A temporary improvement would look like…
+Block 6 — Write Your Own Answer
+Label: SET A BOUNDARY
+Question:  What do you need to stop waiting indefinitely?
+Block 7 — Final Conclusion
+Label: YOUR CONCLUSION
+Question:  Are you choosing this relationship as it exists today, or mainly choosing hope for a different version of it?

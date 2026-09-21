@@ -1,0 +1,602 @@
+[
+  {
+    "id": "cards-1",
+    "category": "THINKING SHIFT",
+    "text": "You are not choosing the perfect option. You are choosing which imperfection you can live with.",
+    "detail": "Every path costs something. Clarity often comes from deciding which cost feels acceptable."
+  },
+  {
+    "id": "cards-2",
+    "category": "SMALL TRUTH",
+    "text": "Not every uncomfortable choice is the wrong choice.",
+    "detail": "Growth, honesty, and boundaries can feel uncomfortable before they feel right."
+  },
+  {
+    "id": "cards-3",
+    "category": "REFRAME",
+    "text": "A hard decision is sometimes just two important values competing.",
+    "detail": "Instead of asking “Which option is right?”, ask “Which value matters more here?”"
+  },
+  {
+    "id": "cards-4",
+    "category": "THINKING SHIFT",
+    "text": "You do not need certainty to make a thoughtful decision.",
+    "detail": "You only need enough information to choose responsibly with what you know now."
+  },
+  {
+    "id": "cards-5",
+    "category": "SMALL TRUTH",
+    "text": "Saying yes always means saying no to something else.",
+    "detail": "Time, attention, energy, and money are part of every decision—even when they are invisible."
+  },
+  {
+    "id": "cards-6",
+    "category": "PERSPECTIVE",
+    "text": "The version of you who is afraid and the version of you who is cautious are not always the same person.",
+    "detail": "Fear wants escape. Caution wants evidence."
+  },
+  {
+    "id": "cards-7",
+    "category": "REFRAME",
+    "text": "Maybe you are not confused. Maybe you already know what you want and dislike the consequences.",
+    "detail": "Sometimes the difficult part is not finding the answer. It is accepting its cost."
+  },
+  {
+    "id": "cards-8",
+    "category": "THINKING SHIFT",
+    "text": "A boundary does not tell someone what they must do. It tells them what you will do.",
+    "detail": "That difference turns control into clarity."
+  },
+  {
+    "id": "cards-9",
+    "category": "SMALL TRUTH",
+    "text": "Someone being disappointed does not automatically mean you made a bad decision.",
+    "detail": "A choice can be fair and still be inconvenient for someone else."
+  },
+  {
+    "id": "cards-10",
+    "category": "PERSPECTIVE",
+    "text": "Ask what you would advise a friend who was living your exact situation.",
+    "detail": "Distance often makes obvious what emotion makes complicated."
+  },
+  {
+    "id": "cards-11",
+    "category": "THINKING SHIFT",
+    "text": "Do not compare a real option with an imaginary perfect one.",
+    "detail": "Compare the choices that actually exist."
+  },
+  {
+    "id": "cards-12",
+    "category": "SMALL TRUTH",
+    "text": "Repeated behavior is information.",
+    "detail": "One moment can be accidental. A pattern deserves more attention."
+  },
+  {
+    "id": "cards-13",
+    "category": "REFRAME",
+    "text": "Instead of asking “What if this goes wrong?”, ask “What would I do if it did?”",
+    "detail": "A problem feels different when you remember you can respond to it."
+  },
+  {
+    "id": "cards-14",
+    "category": "THINKING SHIFT",
+    "text": "You can understand someone’s reason without accepting their behavior.",
+    "detail": "Empathy and boundaries can exist at the same time."
+  },
+  {
+    "id": "cards-15",
+    "category": "SMALL TRUTH",
+    "text": "A decision can be right for you and still make you sad.",
+    "detail": "Relief is not the only sign of a good choice."
+  },
+  {
+    "id": "cards-16",
+    "category": "PERSPECTIVE",
+    "text": "If nobody could praise or criticize your choice, would you still make it?",
+    "detail": "Sometimes the audience is making the decision louder than your own priorities."
+  },
+  {
+    "id": "cards-17",
+    "category": "THINKING SHIFT",
+    "text": "The question is not always “Can I handle this?” but “Do I want my life to include this?”",
+    "detail": "Capability and desire are different things."
+  },
+  {
+    "id": "cards-18",
+    "category": "SMALL TRUTH",
+    "text": "You are allowed to update a decision when the information changes.",
+    "detail": "Changing your mind is not failure when the situation is no longer the same."
+  },
+  {
+    "id": "cards-19",
+    "category": "REFRAME",
+    "text": "Instead of asking who is right, ask what each person is trying to protect.",
+    "detail": "Many conflicts become clearer when you identify the value underneath the argument."
+  },
+  {
+    "id": "cards-20",
+    "category": "THINKING SHIFT",
+    "text": "Not choosing is still a choice when time keeps moving.",
+    "detail": "Delay can protect you from discomfort while quietly deciding the outcome for you."
+  },
+  {
+    "id": "cards-21",
+    "category": "SMALL TRUTH",
+    "text": "You do not owe every opportunity a yes.",
+    "detail": "Something can be good and still not belong in your life right now."
+  },
+  {
+    "id": "cards-22",
+    "category": "PERSPECTIVE",
+    "text": "What feels urgent today may not feel important in a month.",
+    "detail": "Urgency deserves attention, but not automatic authority."
+  },
+  {
+    "id": "cards-23",
+    "category": "THINKING SHIFT",
+    "text": "Sometimes you are not afraid of making the wrong choice. You are afraid of being responsible for the result.",
+    "detail": "No option removes responsibility completely."
+  },
+  {
+    "id": "cards-24",
+    "category": "SMALL TRUTH",
+    "text": "Being needed can feel a lot like being valued. They are not always the same thing.",
+    "detail": "Notice whether the relationship still works when you stop solving problems."
+  },
+  {
+    "id": "cards-25",
+    "category": "REFRAME",
+    "text": "Ask what happens if nothing changes.",
+    "detail": "Doing nothing has consequences too, even when it feels safer than acting."
+  },
+  {
+    "id": "cards-26",
+    "category": "THINKING SHIFT",
+    "text": "You can miss someone and still know that distance is healthier.",
+    "detail": "Feelings do not always need to become instructions."
+  },
+  {
+    "id": "cards-27",
+    "category": "SMALL TRUTH",
+    "text": "A good explanation does not erase a bad impact.",
+    "detail": "Intent matters, but so does what actually happened."
+  },
+  {
+    "id": "cards-28",
+    "category": "PERSPECTIVE",
+    "text": "Imagine this decision belongs to someone you respect. What would you notice first?",
+    "detail": "Changing the owner of the problem can change what you see."
+  },
+  {
+    "id": "cards-29",
+    "category": "THINKING SHIFT",
+    "text": "The goal is not to remove every doubt. It is to know which doubts deserve influence.",
+    "detail": "Some doubts contain information. Others are simply fear repeating itself."
+  },
+  {
+    "id": "cards-30",
+    "category": "SMALL TRUTH",
+    "text": "You can be grateful for what something was and still decide it no longer fits.",
+    "detail": "Past value does not create a permanent obligation."
+  },
+  {
+    "id": "cards-31",
+    "category": "THINKING SHIFT",
+    "text": "You may not need a better answer. You may need a better question.",
+    "detail": "The way you frame a problem often decides which options you can see."
+  },
+  {
+    "id": "cards-32",
+    "category": "SMALL TRUTH",
+    "text": "Peace is not always proof that you chose well.",
+    "detail": "Sometimes peace comes from avoidance. Sometimes discomfort comes from honesty."
+  },
+  {
+    "id": "cards-33",
+    "category": "REFRAME",
+    "text": "Instead of asking “What should I do?”, ask “What am I trying to protect?”",
+    "detail": "The answer often reveals the real decision."
+  },
+  {
+    "id": "cards-34",
+    "category": "PERSPECTIVE",
+    "text": "What would this choice look like if you were not trying to prove anything?",
+    "detail": "Some decisions become lighter when identity is no longer on trial."
+  },
+  {
+    "id": "cards-35",
+    "category": "THINKING SHIFT",
+    "text": "You can care deeply and still choose distance.",
+    "detail": "Care does not automatically require access, availability, or agreement."
+  },
+  {
+    "id": "cards-36",
+    "category": "SMALL TRUTH",
+    "text": "Clarity often arrives after you stop defending both sides equally.",
+    "detail": "At some point, one value usually matters more."
+  },
+  {
+    "id": "cards-37",
+    "category": "REFRAME",
+    "text": "Ask which problem you are willing to have.",
+    "detail": "Every option solves something and creates something else."
+  },
+  {
+    "id": "cards-38",
+    "category": "THINKING SHIFT",
+    "text": "A familiar problem can feel safer than an unfamiliar solution.",
+    "detail": "Comfort and safety are not always the same thing."
+  },
+  {
+    "id": "cards-39",
+    "category": "SMALL TRUTH",
+    "text": "You do not need to explain a boundary until everyone agrees with it.",
+    "detail": "Understanding is useful. Permission is not always required."
+  },
+  {
+    "id": "cards-40",
+    "category": "PERSPECTIVE",
+    "text": "If this happened to someone you love, what would worry you most?",
+    "detail": "Concern becomes clearer when pride and self-judgment are removed."
+  },
+  {
+    "id": "cards-41",
+    "category": "THINKING SHIFT",
+    "text": "The hardest option is not automatically the bravest one.",
+    "detail": "Difficulty is not a measure of wisdom."
+  },
+  {
+    "id": "cards-42",
+    "category": "SMALL TRUTH",
+    "text": "What you tolerate repeatedly becomes part of the relationship.",
+    "detail": "Patterns are built from moments that looked too small to address."
+  },
+  {
+    "id": "cards-43",
+    "category": "REFRAME",
+    "text": "Do not ask only what you might lose. Ask what staying the same is already costing you.",
+    "detail": "Inaction has a price too."
+  },
+  {
+    "id": "cards-44",
+    "category": "THINKING SHIFT",
+    "text": "You can make a good decision and still get a bad outcome.",
+    "detail": "Quality of reasoning and quality of outcome are not the same thing."
+  },
+  {
+    "id": "cards-45",
+    "category": "SMALL TRUTH",
+    "text": "Sometimes closure is a decision, not a conversation.",
+    "detail": "Not every ending comes with a satisfying explanation."
+  },
+  {
+    "id": "cards-46",
+    "category": "PERSPECTIVE",
+    "text": "Imagine explaining this choice to yourself five years from now. What would matter in the story?",
+    "detail": "Long-term perspective can shrink short-term noise."
+  },
+  {
+    "id": "cards-47",
+    "category": "THINKING SHIFT",
+    "text": "You are allowed to choose what works, not what looks impressive.",
+    "detail": "A quieter life can still be a better life."
+  },
+  {
+    "id": "cards-48",
+    "category": "SMALL TRUTH",
+    "text": "The fact that someone needs you does not mean you are the right person to help.",
+    "detail": "Need and responsibility are not identical."
+  },
+  {
+    "id": "cards-49",
+    "category": "REFRAME",
+    "text": "Ask what evidence would actually change your mind.",
+    "detail": "If the answer is “nothing,” you may no longer be evaluating—you may be defending."
+  },
+  {
+    "id": "cards-50",
+    "category": "THINKING SHIFT",
+    "text": "A compromise is useful only when both sides are giving up something they can actually live without.",
+    "detail": "Splitting the difference is not always fairness."
+  },
+  {
+    "id": "cards-51",
+    "category": "SMALL TRUTH",
+    "text": "Feeling guilty does not prove you did something wrong.",
+    "detail": "Sometimes guilt appears simply because you stopped doing what others expected."
+  },
+  {
+    "id": "cards-52",
+    "category": "PERSPECTIVE",
+    "text": "What if the person you are trying hardest not to disappoint is yourself?",
+    "detail": "Some decisions fail quietly because your own needs never entered the room."
+  },
+  {
+    "id": "cards-53",
+    "category": "THINKING SHIFT",
+    "text": "You can respect someone’s feelings without making them your instructions.",
+    "detail": "Emotion deserves consideration, not automatic control."
+  },
+  {
+    "id": "cards-54",
+    "category": "SMALL TRUTH",
+    "text": "The first answer is often emotional. The second may be strategic. Neither is automatically better.",
+    "detail": "The useful question is which one fits the situation."
+  },
+  {
+    "id": "cards-55",
+    "category": "REFRAME",
+    "text": "Instead of asking “Why am I like this?”, ask “What is this reaction trying to protect?”",
+    "detail": "Curiosity is usually more useful than self-criticism."
+  },
+  {
+    "id": "cards-56",
+    "category": "THINKING SHIFT",
+    "text": "Not every open door is meant to be walked through.",
+    "detail": "Opportunity and alignment are different things."
+  },
+  {
+    "id": "cards-57",
+    "category": "SMALL TRUTH",
+    "text": "You can outgrow a decision that once made perfect sense.",
+    "detail": "Past logic does not have to govern your present life."
+  },
+  {
+    "id": "cards-58",
+    "category": "PERSPECTIVE",
+    "text": "What would change if you knew nobody would be angry with you?",
+    "detail": "Fear of reaction can disguise itself as uncertainty."
+  },
+  {
+    "id": "cards-59",
+    "category": "THINKING SHIFT",
+    "text": "A strong preference does not need to become a moral rule.",
+    "detail": "You can choose something for yourself without deciding everyone else should choose it too."
+  },
+  {
+    "id": "cards-60",
+    "category": "SMALL TRUTH",
+    "text": "Sometimes the answer feels unclear because both options are acceptable.",
+    "detail": "Not every difficult choice hides one correct path."
+  },
+  {
+    "id": "cards-61",
+    "category": "THINKING SHIFT",
+    "text": "You may be waiting for confidence that only comes after the decision.",
+    "detail": "Some choices become clearer only once you start moving."
+  },
+  {
+    "id": "cards-62",
+    "category": "SMALL TRUTH",
+    "text": "A difficult conversation can be kinder than a comfortable silence.",
+    "detail": "Avoidance often delays discomfort rather than removing it."
+  },
+  {
+    "id": "cards-63",
+    "category": "REFRAME",
+    "text": "Ask what you are assuming without proof.",
+    "detail": "A decision can feel complicated simply because an assumption has been treated like a fact."
+  },
+  {
+    "id": "cards-64",
+    "category": "PERSPECTIVE",
+    "text": "What would you choose if you knew the outcome would stay private forever?",
+    "detail": "Recognition changes more decisions than we like to admit."
+  },
+  {
+    "id": "cards-65",
+    "category": "THINKING SHIFT",
+    "text": "You do not need to dislike something before you are allowed to leave it.",
+    "detail": "“Not right for me anymore” can be enough."
+  },
+  {
+    "id": "cards-66",
+    "category": "SMALL TRUTH",
+    "text": "A repeated apology without changed behavior is still a pattern.",
+    "detail": "Words matter more when reality begins to match them."
+  },
+  {
+    "id": "cards-67",
+    "category": "REFRAME",
+    "text": "Instead of asking whether the choice is selfish, ask whether it is fair.",
+    "detail": "Those are not the same question."
+  },
+  {
+    "id": "cards-68",
+    "category": "THINKING SHIFT",
+    "text": "You can choose a slower path without choosing a smaller life.",
+    "detail": "Speed is not the only measure of progress."
+  },
+  {
+    "id": "cards-69",
+    "category": "SMALL TRUTH",
+    "text": "The person who benefits from your lack of boundaries may dislike your new ones.",
+    "detail": "Their reaction does not automatically make the boundary unreasonable."
+  },
+  {
+    "id": "cards-70",
+    "category": "PERSPECTIVE",
+    "text": "If you had already made the opposite decision, what would you miss most?",
+    "detail": "Imagining the loss can reveal what matters."
+  },
+  {
+    "id": "cards-71",
+    "category": "THINKING SHIFT",
+    "text": "Some decisions are not about what you want most. They are about what you are willing to maintain.",
+    "detail": "A good beginning means little if the reality cannot be sustained."
+  },
+  {
+    "id": "cards-72",
+    "category": "SMALL TRUTH",
+    "text": "You can be uncertain and still be ready.",
+    "detail": "Readiness rarely feels like complete certainty."
+  },
+  {
+    "id": "cards-73",
+    "category": "REFRAME",
+    "text": "Ask whether you want the thing itself or the feeling you imagine it will give you.",
+    "detail": "Status, security, belonging, and freedom often hide underneath the surface choice."
+  },
+  {
+    "id": "cards-74",
+    "category": "THINKING SHIFT",
+    "text": "You are allowed to choose differently when your priorities change.",
+    "detail": "Consistency is useful, but not when it keeps you loyal to an outdated version of yourself."
+  },
+  {
+    "id": "cards-75",
+    "category": "SMALL TRUTH",
+    "text": "Someone understanding your decision is not a requirement for the decision to be valid.",
+    "detail": "Clarity and agreement are different things."
+  },
+  {
+    "id": "cards-76",
+    "category": "PERSPECTIVE",
+    "text": "What would someone with nothing to gain from your choice notice first?",
+    "detail": "Distance can reveal incentives that emotion hides."
+  },
+  {
+    "id": "cards-77",
+    "category": "THINKING SHIFT",
+    "text": "If every option feels wrong, your criteria may be too strict.",
+    "detail": "Sometimes the problem is expecting a choice with no cost."
+  },
+  {
+    "id": "cards-78",
+    "category": "SMALL TRUTH",
+    "text": "Being patient does not mean waiting forever.",
+    "detail": "Patience still needs a point where new evidence is expected."
+  },
+  {
+    "id": "cards-79",
+    "category": "REFRAME",
+    "text": "Ask what would happen if you stopped trying to make everyone comfortable.",
+    "detail": "The remaining discomfort may show you where the real decision is."
+  },
+  {
+    "id": "cards-80",
+    "category": "THINKING SHIFT",
+    "text": "You can choose something because it is enough.",
+    "detail": "Not every part of life needs to be optimized."
+  },
+  {
+    "id": "cards-81",
+    "category": "SMALL TRUTH",
+    "text": "An explanation can make behavior understandable without making it acceptable.",
+    "detail": "Context adds meaning. It does not automatically remove responsibility."
+  },
+  {
+    "id": "cards-82",
+    "category": "PERSPECTIVE",
+    "text": "Would you still call this a small issue if it happened every week for a year?",
+    "detail": "Frequency changes the weight of a problem."
+  },
+  {
+    "id": "cards-83",
+    "category": "THINKING SHIFT",
+    "text": "You are not always choosing between courage and fear. Sometimes both options require courage.",
+    "detail": "Leaving can be brave. Staying can be brave too."
+  },
+  {
+    "id": "cards-84",
+    "category": "SMALL TRUTH",
+    "text": "A decision made slowly can still be avoidance.",
+    "detail": "Time spent thinking is useful only if the thinking is producing something new."
+  },
+  {
+    "id": "cards-85",
+    "category": "REFRAME",
+    "text": "Ask which part of the problem is actually yours to solve.",
+    "detail": "Responsibility becomes clearer when you stop carrying everyone’s part."
+  },
+  {
+    "id": "cards-86",
+    "category": "THINKING SHIFT",
+    "text": "Your first instinct deserves attention, not obedience.",
+    "detail": "Notice it. Then test it."
+  },
+  {
+    "id": "cards-87",
+    "category": "SMALL TRUTH",
+    "text": "You can be disappointed and still know the decision was right.",
+    "detail": "Good choices do not guarantee pleasant feelings."
+  },
+  {
+    "id": "cards-88",
+    "category": "PERSPECTIVE",
+    "text": "Imagine you already said no. What part of you feels relieved?",
+    "detail": "Relief can reveal a boundary you have been avoiding."
+  },
+  {
+    "id": "cards-89",
+    "category": "THINKING SHIFT",
+    "text": "A choice can be reversible even when it feels permanent.",
+    "detail": "Before treating a decision as final, check what can actually be changed later."
+  },
+  {
+    "id": "cards-90",
+    "category": "SMALL TRUTH",
+    "text": "You do not have to turn every disagreement into a verdict about the relationship.",
+    "detail": "Sometimes two people simply want different things."
+  },
+  {
+    "id": "cards-91",
+    "category": "REFRAME",
+    "text": "Instead of asking “What is the safest choice?”, ask “What risk am I actually willing to take?”",
+    "detail": "No meaningful option is completely risk-free."
+  },
+  {
+    "id": "cards-92",
+    "category": "THINKING SHIFT",
+    "text": "The most logical option is not always the most aligned one.",
+    "detail": "Reason helps you compare. Values help you choose."
+  },
+  {
+    "id": "cards-93",
+    "category": "SMALL TRUTH",
+    "text": "You can forgive someone without restoring the same level of access.",
+    "detail": "Forgiveness and trust do not have to move at the same speed."
+  },
+  {
+    "id": "cards-94",
+    "category": "PERSPECTIVE",
+    "text": "What would you notice if you stopped focusing on what was promised and looked only at what happened?",
+    "detail": "Behavior often answers questions words cannot."
+  },
+  {
+    "id": "cards-95",
+    "category": "THINKING SHIFT",
+    "text": "Sometimes you keep searching for reasons because the emotional answer feels too simple.",
+    "detail": "“I don’t want this anymore” can still be meaningful information."
+  },
+  {
+    "id": "cards-96",
+    "category": "SMALL TRUTH",
+    "text": "A boundary explained ten times is still the same boundary.",
+    "detail": "More explanation does not always create more respect."
+  },
+  {
+    "id": "cards-97",
+    "category": "REFRAME",
+    "text": "Ask what you would choose if the decision had to be temporary for six months.",
+    "detail": "Reducing permanence can make the real preference easier to see."
+  },
+  {
+    "id": "cards-98",
+    "category": "THINKING SHIFT",
+    "text": "You can care about the consequences without trying to control all of them.",
+    "detail": "Responsible choices still leave room for uncertainty."
+  },
+  {
+    "id": "cards-99",
+    "category": "SMALL TRUTH",
+    "text": "Not every problem needs a dramatic solution.",
+    "detail": "Sometimes one small change is enough to test whether the situation can improve."
+  },
+  {
+    "id": "cards-100",
+    "category": "PERSPECTIVE",
+    "text": "What would make you proud of how you handled this, even if the outcome went badly?",
+    "detail": "The quality of your process is one part of the decision you can actually control."
+  }
+]
