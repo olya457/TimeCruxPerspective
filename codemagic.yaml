@@ -51,3 +51,4 @@ workflows:
         auth: integration
         submit_to_app_store: true
         copyright: Maria Hernandez
+
