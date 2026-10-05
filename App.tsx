@@ -13,6 +13,7 @@ function AppContent() {
   }
   return state.onboarded ? <AppNavigator /> : <OnboardingScreen />;
 }
+
 export default function App() {
   return (
     <SafeAreaProvider>
